@@ -1,0 +1,15 @@
+C:\Git\CirlcesLab\CirlcesLab\bin\Debug\net6.0\CirlcesLab.exe
+C:\Git\CirlcesLab\CirlcesLab\bin\Debug\net6.0\CirlcesLab.deps.json
+C:\Git\CirlcesLab\CirlcesLab\bin\Debug\net6.0\CirlcesLab.runtimeconfig.json
+C:\Git\CirlcesLab\CirlcesLab\bin\Debug\net6.0\CirlcesLab.dll
+C:\Git\CirlcesLab\CirlcesLab\bin\Debug\net6.0\CirlcesLab.pdb
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.csproj.AssemblyReference.cache
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.AssemblyInfoInputs.cache
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.AssemblyInfo.cs
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.csproj.CoreCompileInputs.cache
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.dll
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\refint\CirlcesLab.dll
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.pdb
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\CirlcesLab.genruntimeconfig.cache
+C:\Git\CirlcesLab\CirlcesLab\obj\Debug\net6.0\ref\CirlcesLab.dll
